@@ -11,6 +11,8 @@ linux, perl and chili pepper enthusiast 🔌
 <i class="fa fa-github"></i> <a href="http://github.com/trapd00r">trapd00r</a>
 |
 <i class="ai ai-osf"></i> <a href="https://metacpan.org/author/WOLDRICH">CPAN</a>
+|
+<i class="ai ai-mendeley"></i> <a href="https://webchat.freenode.net/">irc</a>
 </div>
 
 
@@ -157,6 +159,7 @@ discussions there.
 * <i class="ai ai-osf"></i> <a href="https://metacpan.org/author/WOLDRICH">CPAN</a>
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/wantarray">wantarray</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/japh/">LinkedIn</a>
+* <i class="ai ai-mendeley"></i> <a href="https://webchat.freenode.net/">irc</a>
 
 ## References
 
